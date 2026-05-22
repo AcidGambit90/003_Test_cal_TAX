@@ -1,0 +1,22 @@
+{
+  "name": "thaitax-pro",
+  "version": "1.0.0",
+  "description": "Thai Personal Income Tax Calculator Web App",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y http-server . -p 3000",
+    "dev": "npx -y http-server . -p 3000"
+  },
+  "keywords": [
+    "tax",
+    "thailand",
+    "calculator",
+    "personal-income-tax",
+    "finance"
+  ],
+  "author": "ThaiTax Pro",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
